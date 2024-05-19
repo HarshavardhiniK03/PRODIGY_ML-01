@@ -49,6 +49,10 @@ Generating predictions for the test dataset
 Preparing the submission file
 ## Files
 train.csv: Training dataset
+
 test.csv: Test dataset
+
 sample_submission.csv: Sample submission file
-house_price_prediction.py or house_price_prediction.ipynb: Python script or Jupyter notebook containing the code for data preprocessing, model training, and evaluation
+
+house_price_prediction.py or house_price_prediction.ipynb: Python script or Jupyter notebook
+containing the code for data preprocessing, model training, and evaluation
